@@ -12,7 +12,7 @@ are 3 different sets of timecycles, one or the other to be used at a time, and c
 **The file**
   - 2.3 to 2.4 update.oiv
   
-is an OpenIV install package for those who have already installed version 2.3 of my graphics mod to quickly update it to version 2.4.
+is an OpenIV install package for those who have already installed version 2.3 of graphics OIV install package, to quickly update it to version 2.4.
 
 **The file**
   - Xenos64 injector + pre-loaded config.zip
