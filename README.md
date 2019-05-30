@@ -3,7 +3,7 @@ Components for the Spinethetic.com graphics mod
 
 The files
   - TimecyclesVisualsettingsLoaderREDUX.zip
-  - TimecyclesVisualsettingsLoaderSPINETHETIC.zip
+  - TimecyclesVisualsettingsLoaderNVR.zip
   - TimecyclesVisualsettingsLoaderVISUALSV.zip
   - TimecyclesVisualsettingsLoaderQUANTV.zip
 
