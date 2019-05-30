@@ -9,7 +9,7 @@ The files
 
 are 3 different sets of timecycles, one or the other to be used at a time, and can only be used by a GTA V trainer capable of loading .ASI mods. Some GTA V trainers load ASI mods better than others. I take no responsibility as to wheter or not whatever particular trainer you may be using may be inferior in doing so.
 
-The contained "VSReloader.asi" file enherient in each set, is made by UnknownModder, which can be fetched and LIKED here: https://www.gta5-mods.com/tools/visualsettings-dat-reloader
+The contained "VSReloader.asi" file inherent in each set, is made by UnknownModder, which can be fetched and LIKED here: https://www.gta5-mods.com/tools/visualsettings-dat-reloader
 
 The file
   - 2.3 to 2.4 update.oiv
