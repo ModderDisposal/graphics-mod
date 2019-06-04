@@ -7,12 +7,12 @@ Components for the Spinethetic.com graphics mod
   - TimecyclesVisualsettingsLoaderVISUALSV.zip
   - TimecyclesVisualsettingsLoaderQUANTV.zip
 
-are 3 different sets of timecycles, one or the other to be used at a time, and can only be used by a GTA V trainer capable of loading .ASI mods. Some GTA V trainers load ASI mods better than others. I take no responsibility as to wheter or not whatever particular trainer you may be using may be inferior in doing so.
+are 4 different sets of timecycles, one or the other to be used at a time, and can only be used by a GTA V trainer capable of loading .ASI mods. Some GTA V trainers load ASI mods better than others. I take no responsibility as to wheter or not whatever particular trainer you may be using may be inferior in doing so.
 
 **The file**
   - 2.3 to 2.4 update.oiv
   
-is an OpenIV install package for those who have already installed version 2.3 of graphics OIV install package, to quickly update it to version 2.4.
+is an OpenIV install package for those who have already installed version 2.3 of graphics OIV install package, to quickly update it to version 2.4. Update puts certain procedural weeds and grasses back into the game which were previously used up until 1.46 DLC by modders to crash player's games. Also adds some map addons.
 
 **The file**
   - Xenos64 injector + pre-loaded config.zip
