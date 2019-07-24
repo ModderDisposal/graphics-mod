@@ -12,7 +12,7 @@ are 4 different sets of timecycles, one or the other to be used at a time, and c
 **The file**
   - 2.3 to 2.4 update.oiv
   
-is an OpenIV install package for those who have already installed version 2.3 of graphics OIV install package, to quickly update it to version 2.4. Update puts certain procedural weeds and grasses back into the game which were previously used up until 1.46 DLC by modders to crash player's games. Also adds some map addons.
+is an OpenIV install package for those who have already installed version 2.3 of graphics OIV install package, to quickly update it to version 2.4. Update puts certain procedural weeds and grasses back into the game which were previously used up until 1.46 DLC by modders to crash player's games. Also adds some map addons via MPAPARTMENTS DLC
 
 **The file**
   - Xenos64 injector + pre-loaded config.zip
