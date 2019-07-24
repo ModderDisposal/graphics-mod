@@ -7,7 +7,7 @@ Components for the Spinethetic.com graphics mod
   - TimecyclesVisualsettingsLoaderVISUALSV.zip
   - TimecyclesVisualsettingsLoaderQUANTV.zip
 
-are 4 different sets of timecycles, one or the other to be used at a time, and can only be used by a GTA V trainer capable of loading .ASI mods. Some GTA V trainers load ASI mods better than others. I take no responsibility as to wheter or not whatever particular trainer you may be using may be inferior in doing so.
+are 4 different sets of timecycles, one or the other to be used at a time, and can only be used by a GTA V trainer capable of loading .ASI mods. Some GTA V trainers load ASI mods better than others. I take no responsibility as to whether or not whatever particular trainer you may be using may be inferior in doing so.
 
 **The file**
   - 2.3 to 2.4 update.oiv
