@@ -15,7 +15,7 @@ is an OpenIV install package for those who have already installed version 2.3 of
 
 **Xenos64 injector + pre-loaded config.zip**
 
-Is a copy of the Xenos library injector, prepackaged with an injection config for use with the graphics retexture mod. Also included in the main retexture package 4GB ZIP
+Is a copy of the Xenos library injector, prepackaged with an injection config for use with the graphics retexture mod. Also included in the main retexture package 4GB ZIP. Your browser may flag the download as unsafe for this reason alone, especially Chrome.
 
 **Credits**
 
