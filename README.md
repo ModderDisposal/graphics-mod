@@ -18,15 +18,15 @@ To put your own swaps of other vehicles from https://www.gta5-mods.com/vehicles 
 
 - DodgeCharger.yft
 - DodgeCharger_hi.yft
-- DodgeCharget.ytd
+- DodgeCharger.ytd
 - DodgeCharger+hi.ytd
 
 to...
 
-- buffalo.yft
-- buffalo_hi.yft
-- buffalo.ytd
-- buffalo+hi.yft
+- dukes.yft
+- dukes_hi.yft
+- dukes.ytd
+- dukes+hi.yft
 
 and replacing the vanilla models(yft) and textures(ytd) with the ones from the modded car.
 Most common cars can be swapped in /mods/x64e.rpf, some cars may have been tweaked and changed by Rockstar in dlcs that have been issued, in which you would have to swap that NEWEST INSTANCE of a specific car.
