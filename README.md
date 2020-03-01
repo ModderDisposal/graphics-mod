@@ -10,8 +10,26 @@ DOWNLOAD RETEXTURE PACKAGE(4GB) - https://mega.nz/#!BCwzmaAT!NK6sbSgo7LQtio5UXo5
 
 are 4 different sets of timecycles, one or the other to be used at a time, and can only be used by a GTA V trainer capable of loading .ASI mods. Some GTA V trainers load ASI mods better than others. I take no responsibility as to whether or not whatever particular trainer you may be using may be inferior in doing so.
 
-  
-is an OpenIV install package for those who have already installed version 2.3 of graphics OIV install package, to quickly update it to version 2.4. Update puts certain procedural weeds and grasses back into the game which were previously used up until 1.46 DLC by modders to crash player's games. Also adds some map addons via MPAPARTMENTS DLC
+**Vehicle Swaps**
+I have preconfigured some popular vehicle swaps into easy one-click install OpenIV packages here:
+https://mega.nz/#F!1OJF2IoI!x7tgQvsXaLlK73vDLmesAg
+
+To put your own swaps of other vehicles from https://www.gta5-mods.com/vehicles one must follow the practice of REPLACING a suitable vanilla vehicle, such as BUFFALO, POLICE3, BISON2, etc, by renaming the modded car files to a stock one, for example:
+
+- DodgeCharger.yft
+- DodgeCharger_hi.yft
+- DodgeCharget.ytd
+- DodgeCharger+hi.ytd
+
+to...
+
+- buffalo.yft
+- buffalo_hi.yft
+- buffalo.ytd
+- buffalo+hi.yft
+
+and replacing the vanilla models(yft) and textures(ytd) with the ones from the modded car.
+Most common cars can be swapped in /mods/x64e.rpf, some cars may have been tweaked and changed by Rockstar in dlcs that have been issued, in which you would have to swap that NEWEST INSTANCE of a specific car.
 
 **Xenos64 injector + pre-loaded config.zip**
 
