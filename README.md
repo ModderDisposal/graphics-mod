@@ -35,6 +35,10 @@ Most common cars can be swapped in /mods/x64e.rpf, some cars may have been tweak
 
 Is a copy of the Xenos library injector, prepackaged with an injection config for use with the graphics retexture mod. Also included in the main retexture package 4GB ZIP. Your browser may flag the download as unsafe for this reason alone, especially Chrome.
 
+**Recommended ENB configs**
+PRSA: https://www.gta5-mods.com/misc/prsa-photorealistic-san-andreas-enb
+Popozitos ENB Series: https://www.gta5-mods.com/misc/popozitos-enb-series
+
 **Credits**
 
   - VSReloader: UnknownModder - https://www.gta5-mods.com/tools/visualsettings-dat-reloader
