@@ -1,6 +1,9 @@
 # graphics-mod
 Components for the Spinethetic.com graphics mod
-DOWNLOAD RETEXTURE PACKAGE(4GB) - https://mega.nz/#!BCwzmaAT!NK6sbSgo7LQtio5UXo55KJ3KTlzWNNhgcDL9akHq1zg
+DOWNLOAD RETEXTURE PACKAGE(4GB)
+2.4 https://mega.nz/file/BCwzmaAT#NK6sbSgo7LQtio5UXo55KJ3KTlzWNNhgcDL9akHq1zg
+(USE 2.3 IF 2.4 CAUSES CRASHES)
+2.3 https://mega.nz/file/ALxViIAS#xWkkq9haNjxM85w3Ki9cI4Bv_eOk47ndCANDrL68k7M
 
 **The files above**
   - TimecyclesVisualsettingsLoaderREDUX.zip
